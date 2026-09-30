@@ -23,3 +23,4 @@ Building humanoids and general intelligence from the ground up.
 - **Princeton** · differentiable algorithms and statistical theory
 - **Lawrence Berkeley National Lab** · training and evaluating foundation models
 - **SLAC National Accelerator Laboratory** · architecting foundation models for dark-matter searches
+- **CERN** · training foundation models for Higgs boson analysis

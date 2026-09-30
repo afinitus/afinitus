@@ -20,7 +20,7 @@ Building humanoids and general intelligence from the ground up.
 
 - **University of Cambridge** · Mathematics
 - **UC Berkeley** · Physics and Computer Science
-- **Princeton** · differentiable algorithms and statistical theory
-- **Lawrence Berkeley National Lab** · training and evaluating foundation models
-- **SLAC National Accelerator Laboratory** · architecting foundation models for dark-matter searches
-- **CERN** · training foundation models for Higgs boson analysis
+- **Princeton** · Differentiable algorithms and statistical theory
+- **Lawrence Berkeley National Lab** · Foundation models for particle collisions
+- **CERN** · Foundation models for Higgs boson analysis
+- **SLAC National Accelerator Lab** · Foundation models for dark matter searches

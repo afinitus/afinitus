@@ -50,7 +50,7 @@ LINKS = [
 ]
 
 # ------------------------------------------------------------------------------------------------
-# design tokens (shared with scripts/art/banner.py and scripts/profile_stats.py)
+# design tokens (shared with scripts/art/banner.py)
 # ------------------------------------------------------------------------------------------------
 TOKENS = {
     "dark": dict(bg0="#0b0f14", bg1="#12171e", line="#21262d", text="#e6edf3", muted="#8b949e",

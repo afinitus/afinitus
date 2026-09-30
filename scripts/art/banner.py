@@ -53,8 +53,8 @@ SUBLINE = " · ".join((ROLE, COMPANY, CITY))  # Co-Founder · Nirvana Robotics �
 # Tagline (kicker) above the name, colour-coded like the art: green = particles, violet = robots.
 # Parts are (text, token); TAGLINE = () drops it.
 TAGLINE = ()  # optional kicker above the name: ((text, token), ...)
-# Decorative micro-labels (unreadable on phones by design). 0x4e47 is ASCII "NG".
-CORNER_LABEL = (("evt 0x4e47", "muted"),)
+# Decorative micro-labels (unreadable on phones by design).
+CORNER_LABEL = ()  # optional top-right micro-label: ((text, token), ...)
 FOOT_LABEL = ()  # optional bottom-left micro-label: ((text, token), ...)
 
 TITLE = f"{NAME} · {ROLE}, {COMPANY} · {CITY}"
